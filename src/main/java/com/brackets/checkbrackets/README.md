@@ -14,7 +14,7 @@ This is an application that provides an API for working with brackets, checking 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/https://github.com/YuriPetukhov/checkbrackets.git
+git clone https://github.com/https://github.com/YuriPetukhov/brackets.git
 cd checkbrackets
 ```
 
